@@ -22,19 +22,14 @@
 - **passport-google-oauth20** - Google strategy
 - **bcrypt** - Password hashing
 
-## Database Options
+## Database 
 
-### Option 1: Supabase (Recommended)
+### Supabase 
 - **PostgreSQL** - Primary database
 - **Supabase pgvector** - Vector storage
 - **Supabase Storage** - File storage
 - **Free Tier**: 500MB database, 1GB storage
 
-### Option 2: MongoDB Atlas
-- **MongoDB** - Document database
-- **Mongoose** - Object modeling
-- **Pinecone** - Vector database (1M vectors free)
-- **Free Tier**: 512MB cluster
 
 ## AI Services
 - **OpenAI API** - GPT models for summarization & chat
